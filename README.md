@@ -6,3 +6,5 @@
 - Built using [sage](https://www.sagemath.org/)
 - Fully Interactive (Launch Binder to See!)
 - [Source Code](https://github.com/Kapral67/MasterMethod.Sage/blob/master/index.ipynb)
+- For non-interactive examples, see the [static folder](https://github.com/Kapral67/MasterMethod.Sage/tree/master/static)
+
