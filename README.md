@@ -1,6 +1,6 @@
 # Master Theorem Via Sage Math
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kapral67/MasterMethod.Sage/HEAD?labpath=index.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Kapral67/MasterMethod.Sage/HEAD?labpath=voila%2Frender%2Findex.ipynb)
 
 - Launches in Browser with [Binder](https://mybinder.org)
 - Built using [sage](https://www.sagemath.org/)
