@@ -8,3 +8,9 @@
 - [Source Code](https://github.com/Kapral67/MasterMethod.Sage/blob/master/index.ipynb)
 - For non-interactive examples, see the [static folder](https://github.com/Kapral67/MasterMethod.Sage/tree/master/static)
 
+### Known Issues
+
+- If we let $\mathcal{C}$ be some constant, `expr` $\neq\mathcal{C}\cdot n!$
+- `expr` also cannot be a term containing $n!$, it may only be $n!$
+  - E.g.&emsp;`expr `$\thinspace\neq\dfrac{n!}{n}$&emsp;`expr`$\thinspace= n!$
+
