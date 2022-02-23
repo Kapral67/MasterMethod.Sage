@@ -10,7 +10,7 @@
 
 ### Known Issues
 
-- If we let $\mathcal{C}$ be some constant, `expr` $\neq\mathcal{C}\cdot n!$
-- `expr` also cannot be a term containing $n!$, it may only be $n!$
-  - E.g.&emsp;`expr `$\thinspace\neq\dfrac{n!}{n}$&emsp;`expr`$\thinspace= n!$
+- If we let C be some constant, `expr` != C * factorial(n)
+- `expr` also cannot be a term containing factorial(n), it may only be factorial(n)
+  - E.g.&emsp;`expr` != factorial(n)/n&emsp;`expr` = factorial(n)
 
