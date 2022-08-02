@@ -1,10 +1,10 @@
-name: test-binder-sage
+name: master-method-sage
 
 channels:
   - conda-forge
   - defaults
 
 dependencies:
-  - sage=9.2
+  - sage=9.6
   - voila
   - ipywidgets
